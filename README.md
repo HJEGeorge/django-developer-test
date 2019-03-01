@@ -15,11 +15,19 @@ To produce a form to the following specification:
 5. The submit button should trigger a bootstrap model, which asks the user to confirm whether they are ready to submit, or whether they'd like to go back.
 
 All the fields above should have suitable validation, displayed in the standard bootstrap 4 style, under each field which has been validated incorrectly. Fields should have suitable labels, and placeholder text when necessary.
+
+### Example
+Below is an example of the above spec:
+![Example Image](https://i.imgur.com/cjekxta.png)
 ### Time
 This task should take 1-5 hours depending on your knowledge of python and Django (1hr for an experienced Django dev, 5 hours for a beginner/hobbyist).
-    
-Below is an example of the above spec:
-![Example Image](https://i.imgur.com/UJ3l5qK.png)
+
+### Libraries
+The django-crispy-forms library comes preinstalled, but you are free to use any libraries you wish (or none) in the completion of this project. 
+However, remember that this test is emulating an enterprise project, and so you may want to consider security, reliability and code longevity when assessing packages.
+
+### Submission
+Submit your completed form to [development@stepex.co](mailto:development@stepex.co)
 
 ## Installation
 Download Python 3.6.7, if you're using ubuntu this would be `sudo apt-get install python3.6`.
