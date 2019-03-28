@@ -28,7 +28,7 @@ The django-crispy-forms library comes preinstalled, but you are free to use any 
 However, remember that this test is emulating an enterprise project, and so you may want to consider security, reliability and code longevity when assessing packages.
 
 ### Submission
-The recommended method of submission is to take a private fork of this repository, create your solution, and then email 
+The recommended method of submission is to take a private fork of this repository, create your solution, add HJEGeorge as a collaborator, and then email 
 the link and an estimate of how long it took to [development@stepex.co](mailto:development@stepex.co). Alternatively you can manage the source code however you'd like, but in this case please ensure that all files are emailed, including any details of how to install (if different from this repo).
 
 ## Installation
