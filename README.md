@@ -12,7 +12,8 @@ To produce a form to the following specification:
     
 3. A CV PDF Upload field. This field should be safe from code injections or large file uploads.
 4. A last salary field, with suitable validation, and a '£', prepended to the input field.
-5. The submit button should trigger a bootstrap model, which asks the user to confirm whether they are ready to submit, or whether they'd like to go back.
+5. The submit button should trigger a bootstrap modal, which asks the user to confirm whether they are ready to submit, or whether they'd like to go back.
+6. Once valid data is submitted, the data should be stored in an appropriate manner in the database.
 
 All the fields above should have suitable validation, displayed in the standard bootstrap 4 style, under each field which has been validated incorrectly. Fields should have suitable labels, and placeholder text when necessary.
 
